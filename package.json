@@ -17,7 +17,7 @@
     "core-js": "^3.4.3",
     "es6-promise": "^4.2.8",
     "eslint-loader": "^2.1.2",
-    "firebase-functions": "^3.3.0",
+    "firebase-functions": "^3.24.1",
     "firebaseui": "^4.4.0",
     "stripe": "^7.15.0",
     "style-loader": "^1.0.2",
